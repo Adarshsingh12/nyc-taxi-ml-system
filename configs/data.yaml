@@ -1,0 +1,13 @@
+dataset: yellow_taxi
+
+base_url: https://d37ci6vzurychx.cloudfront.net/trip-data
+
+months:
+  - 2022-01
+  - 2022-02
+  - 2022-03
+  - 2022-04
+  - 2022-05
+  - 2022-06
+
+raw_data_dir: data/raw/yellow
