@@ -3,5 +3,7 @@ name = "nyc-taxi-ml-system"
 version = "0.1.0"
 dependencies = [
     "requests",
-    "pyyaml"
+    "pyyaml",
+    "pandas",
+    "pyarrow"
 ]
