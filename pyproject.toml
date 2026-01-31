@@ -5,5 +5,7 @@ dependencies = [
     "requests",
     "pyyaml",
     "pandas",
-    "pyarrow"
+    "pyarrow",
+    "scikit-learn",
+    "xgboost"
 ]
